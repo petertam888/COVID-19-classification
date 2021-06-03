@@ -23,5 +23,5 @@ There are two datasets used in this time, and in the case 1, the model is traine
 
 # The results/observations in this project
 - The training accuracy of the trained models is higher ( around 95% ).
-- However, when deploying the model into other dataset, the effectioncy of the trained model is low , no matter in which cases. It shows that the models trained in this time are just ready for particular inputs. They are not able to predict the CT images came from different data source. 
+- However, when deploying the model into other dataset, the efficiency  of the trained model is low , no matter in which cases. It shows that the models trained in this time are just ready for particular inputs. They are not able to predict the CT images came from different data source. 
 - In the future, it can aim to trained the model with various datasets in order to increase the performance of the model. 
